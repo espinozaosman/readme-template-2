@@ -1,5 +1,5 @@
 **Description**
-<br>
+<br><br>
 We have two APIs which use lambdas to process the tenant/app id. The two APIs are below:
 
 1. `/contentful/broadcastsignal`
