@@ -7,7 +7,7 @@ We have two APIs which use lambdas to process the tenant/app id. The two APIs ar
 
 How to use `/contentful/broadcastsignal:`
 
-This is a notification POST API that will send notifications to the user using OneSignal and return a response status code of 200. 
+This is a notification POST API that will send notifications to the user using OneSignal and return a response status code of 200.<br>
 You will need to send the below keys in the header of the API:
 
 1. Contentful-Key
